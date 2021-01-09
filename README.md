@@ -16,6 +16,6 @@ I'm **Udayaditya** from India💙:)
 ##### MY GIT STATS
 ----
 ![Udayditya's stats](https://github-readme-stats.vercel.app/api?username=SasmalUdayaditya&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasmalUdayaditya&layout=compact&langs_count=5&theme=nightowl)](https://github.com/SasmalUdayaditya/github-readme-stats)
-<br/>*NOTE: Top languages Chart does not indicate my skill level 😃 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasmalUdayaditya&layout=compact&exclude_repo=Breast-Cancer-Detection-using-ML,Sentiment-Analysis-using-ML&langs_count=6&theme=nightowl)](https://github.com/SasmalUdayaditya/github-readme-stats)
+<br/>*NOTE: Top languages chart does not indicate my skill level 😃 
 
