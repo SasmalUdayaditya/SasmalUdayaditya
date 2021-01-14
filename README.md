@@ -11,7 +11,7 @@ I'm **Udayaditya** from India💙:)
 - ⚡ Fun fact: I'll tell you, at first buy me a  coffee/tea 🥺👉👈
 <!-- <img align="right" alt="GIF" src="https://github.com/SasmalUdayaditya/SasmalUdayaditya/blob/main/code.gif" width="480" height="315" /> -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SasmalUdayaditya) -->
-##### MY GIT STATS
+##### MY GIT STATS:
 ----
 ![Udayditya's stats](https://github-readme-stats.vercel.app/api?username=SasmalUdayaditya&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasmalUdayaditya&layout=compact&exclude_repo=Breast-Cancer-Detection-using-ML,Sentiment-Analysis-using-ML&langs_count=6&theme=nightowl)](https://github.com/SasmalUdayaditya/github-readme-stats)
