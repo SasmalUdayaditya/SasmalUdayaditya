@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 😎
-I'm **Udayaditya** from India💙:)
+I'm **Udayaditya** from India🧡🤍💚:)
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SasmalUdayaditya" alt="visitor badge"/> -->
 - 🔭 I’m currently working on: Something Cool 🤫
 <!-- - 🌱 I’m currently learning ...
