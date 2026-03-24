@@ -8,7 +8,7 @@ I'm **Udayaditya** from India🇮🇳:)
 - 💬 Ask me about ... -->
 - 📫 :runner: Reach me: [LinkedIn](https://www.linkedin.com/in/udayaditya-sasmal-578b51195/)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: $y = \frac{gt^2}{2}$
+- ⚡ Fun fact:  $y = \frac{gt^2}{2}$
 <!-- <img align="right" alt="GIF" src="https://github.com/SasmalUdayaditya/SasmalUdayaditya/blob/main/code.gif" width="480" height="315" /> -->
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SasmalUdayaditya) -->
 ##### MY GIT STATS:
